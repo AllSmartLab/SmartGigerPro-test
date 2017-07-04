@@ -13,7 +13,7 @@
             android:layout_height="match_parent"
             android:gravity="center"
             android:textSize="30sp"
-            android:text="측정 시간 선택"/>
+            android:text="Select Type"/>
 
     </LinearLayout>
 
@@ -165,7 +165,7 @@
             android:layout_gravity="center"
             android:onClick="mOnClick"
             android:layout_weight="0.28"
-            android:text="시작"/>
+            android:text="START"/>
     </LinearLayout>
 
 
